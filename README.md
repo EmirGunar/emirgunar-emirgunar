@@ -74,9 +74,6 @@ My goal is to keep learning continuously, follow the latest technologies closely
   <a href="https://www.linkedin.com/in/emirg%C3%BCnar/">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://github.com/EmirGunar">
-    <img src="https://img.icons8.com/fluency/48/source-code.png" alt="GitHub" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
 </p>
 
 <p align="center">

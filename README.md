@@ -63,18 +63,6 @@ Hedefim; sürekli öğrenmeye devam ederek, teknolojiyi yakından takip eden ve 
 
 ---
 
-### 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirgunar-emirgunar&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirgunar-emirgunar&layout=compact&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=emirgunar-emirgunar&theme=radical&border_radius=8" height="150"/>
-</p>
-
----
-
 ### 📫 İletişim
 <p>
 💼 LinkedIn: <a href="https://linkedin.com/in/emirgunar">linkedin.com/in/emirgunar</a><br>

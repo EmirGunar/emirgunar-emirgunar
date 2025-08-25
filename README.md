@@ -64,13 +64,15 @@ My goal is to keep learning continuously, follow the latest technologies closely
 
 ---
 
+---
+
 ### 📫 Connect with Me  
 
 <p align="center">
   <a href="mailto:emirgunar@icloud.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/emirgunar/">
+  <a href="https://www.linkedin.com/in/emirg%C3%BCnar/">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/EmirGunar">
@@ -79,5 +81,8 @@ My goal is to keep learning continuously, follow the latest technologies closely
 </p>
 
 <p align="center">
+⭐ Feel free to explore my repositories and connect with me for collaboration!  
+</p>
+
 ⭐ Feel free to explore my repositories and connect with me for collaboration!  
 </p>

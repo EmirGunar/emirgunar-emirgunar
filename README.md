@@ -64,8 +64,20 @@ My goal is to keep learning continuously, follow the latest technologies closely
 
 ---
 
-### 📫 Contact
-<p>
-💼 LinkedIn: <a href="https://linkedin.com/in/emirgunar">linkedin.com/in/emirgunar</a><br>
-✉️ Email: emirgunar@icloud.com
+### 📫 Connect with Me  
+
+<p align="center">
+  <a href="mailto:emirgunar@icloud.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/emirgunar/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/EmirGunar">
+    <img src="https://img.icons8.com/fluency/48/source-code.png" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+⭐ Feel free to explore my repositories and connect with me for collaboration!  
 </p>

@@ -7,12 +7,20 @@
 
 ---
 
-### 🚀 Hakkımda
-- PostgreSQL kurulumu, yapılandırması ve yüksek erişilebilirlik mimarileri  
-- Docker, Docker Compose, GitLab CI/CD ile mikroservis yönetimi  
-- NGINX reverse proxy, Prometheus, Grafana, Graylog ile monitoring & logging  
-- Apache Kafka ile event-driven sistemler  
-- Backend geliştirme (.NET, Python)  
+### 🚀 Hakkımda  
+
+Ben Emir Günar, İstanbul’da yaşayan bir **Yazılım Mühendisliği** mezunuyum.  
+Kariyerime **Jr. DevOps Engineer** olarak devam ediyor, modern yazılım geliştirme ve sistem yönetimi alanlarında aktif olarak çalışıyorum.  
+
+💡 İlgi alanlarım:  
+- **Veritabanı Yönetimi:** PostgreSQL ve MSSQL üzerinde performans iyileştirme, replikasyon ve yüksek erişilebilirlik çözümleri  
+- **Mikroservis Mimarisi:** Docker & Docker Compose ile konteyner tabanlı dağıtımlar, GitLab CI/CD ile otomasyon  
+- **Servis Yönlendirme & Güvenlik:** NGINX reverse proxy yapılandırmaları  
+- **Monitoring & Logging:** Prometheus, Grafana ve Graylog ile merkezi izleme ve loglama altyapıları  
+- **Event-Driven Sistemler:** Apache Kafka entegrasyonlarıyla ölçeklenebilir, asenkron servis iletişimi  
+- **Yazılım Geliştirme:** Backend tarafında .NET ve Python teknolojileri ile uygulama geliştirme  
+
+Hedefim; sürekli öğrenmeye devam ederek, teknolojiyi yakından takip eden ve çalıştığı kurumlara **katma değer sağlayan** bir yazılım ve sistem uzmanı olmak. 🚀
 
 ---
 

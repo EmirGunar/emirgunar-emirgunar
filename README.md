@@ -66,8 +66,6 @@ My goal is to keep learning continuously, follow the latest technologies closely
 ---
 
 
----
-
 ### 📫 Connect with Me  
 
 <p align="center">

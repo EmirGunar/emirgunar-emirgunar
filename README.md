@@ -71,18 +71,13 @@ My goal is to keep learning continuously, follow the latest technologies closely
 
 <p align="center">
   <a href="mailto:emirgunar@icloud.com">
-    <img src="https://img.icons8.com/ios-glyphs/48/808080/new-post.png" 
-         alt="Email" style="margin: 0 15px;" 
-         onmouseover="this.src='https://img.icons8.com/fluency/48/gmail-new.png'" 
-         onmouseout="this.src='https://img.icons8.com/ios-glyphs/48/808080/new-post.png'"/>
+    <img src="https://img.shields.io/badge/Email-emirgunar%40icloud.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/emirg%C3%BCnar/">
-    <img src="https://img.icons8.com/ios-glyphs/48/808080/linkedin.png" 
-         alt="LinkedIn" style="margin: 0 15px;" 
-         onmouseover="this.src='https://img.icons8.com/fluency/48/linkedin.png'" 
-         onmouseout="this.src='https://img.icons8.com/ios-glyphs/48/808080/linkedin.png'"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Emir%20Gunar-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 <p align="center">
 ⭐ Feel free to explore my repositories and connect with me for collaboration!  

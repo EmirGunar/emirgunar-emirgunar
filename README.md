@@ -83,6 +83,3 @@ My goal is to keep learning continuously, follow the latest technologies closely
 <p align="center">
 ⭐ Feel free to explore my repositories and connect with me for collaboration!  
 </p>
-
-⭐ Feel free to explore my repositories and connect with me for collaboration!  
-</p>

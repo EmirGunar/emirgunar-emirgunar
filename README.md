@@ -1,30 +1,30 @@
-<h1 align="center">👋 Merhaba, ben Emir Günar</h1>
+<h1 align="center">👋 Hi, I'm Emir Günar</h1>
 
 <p align="center">
-  İstanbul’da yaşayan bir <b>Yazılım Mühendisliği</b> mezunuyum.<br>
-  Şu anda <b>Jr. DevOps Engineer</b> olarak çalışıyorum. 🚀
+  A <b>Software Engineering</b> graduate based in Istanbul.<br>
+  Currently working as a <b>Jr. DevOps Engineer</b>. 🚀
 </p>
 
 ---
 
-### 🚀 Hakkımda  
+### 🚀 About Me  
 
-Ben Emir Günar, İstanbul’da yaşayan bir **Yazılım Mühendisliği** mezunuyum.  
-Kariyerime **Jr. DevOps Engineer** olarak devam ediyor, modern yazılım geliştirme ve sistem yönetimi alanlarında aktif olarak çalışıyorum.  
+I'm Emir Günar, a **Software Engineering** graduate living in Istanbul.  
+I am currently pursuing my career as a **Jr. DevOps Engineer**, actively working in modern software development and system administration.  
 
-💡 İlgi alanlarım:  
-- **Veritabanı Yönetimi:** PostgreSQL ve MSSQL üzerinde performans iyileştirme, replikasyon ve yüksek erişilebilirlik çözümleri  
-- **Mikroservis Mimarisi:** Docker & Docker Compose ile konteyner tabanlı dağıtımlar, GitLab CI/CD ile otomasyon  
-- **Servis Yönlendirme & Güvenlik:** NGINX reverse proxy yapılandırmaları  
-- **Monitoring & Logging:** Prometheus, Grafana ve Graylog ile merkezi izleme ve loglama altyapıları  
-- **Event-Driven Sistemler:** Apache Kafka entegrasyonlarıyla ölçeklenebilir, asenkron servis iletişimi  
-- **Yazılım Geliştirme:** Backend tarafında .NET ve Python teknolojileri ile uygulama geliştirme  
+💡 Areas of Interest:  
+- **Database Management:** Performance tuning, replication, and high availability solutions for PostgreSQL and MSSQL  
+- **Microservices Architecture:** Containerized deployments with Docker & Docker Compose, automation with GitLab CI/CD  
+- **Service Routing & Security:** NGINX reverse proxy configurations  
+- **Monitoring & Logging:** Centralized monitoring and logging systems with Prometheus, Grafana, and Graylog  
+- **Event-Driven Systems:** Scalable, asynchronous service communication with Apache Kafka  
+- **Software Development:** Backend development with .NET and Python  
 
-Hedefim; sürekli öğrenmeye devam ederek, teknolojiyi yakından takip eden ve çalıştığı kurumlara **katma değer sağlayan** bir yazılım ve sistem uzmanı olmak. 🚀
+My goal is to keep learning continuously, follow the latest technologies closely, and contribute to the organizations I work with by delivering **scalable, reliable, and value-driven solutions**. 🚀
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Tech Stack
 
 #### Backend
 <p>
@@ -63,8 +63,8 @@ Hedefim; sürekli öğrenmeye devam ederek, teknolojiyi yakından takip eden ve 
 
 ---
 
-### 📫 İletişim
+### 📫 Contact
 <p>
 💼 LinkedIn: <a href="https://linkedin.com/in/emirgunar">linkedin.com/in/emirgunar</a><br>
-✉️ Mail: emirgunar@icloud.com
+✉️ Email: emirgunar@icloud.com
 </p>
